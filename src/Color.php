@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace pocketmine\color;
+namespace bedrockplaymp\color;
 
 use function count;
 use function intdiv;
